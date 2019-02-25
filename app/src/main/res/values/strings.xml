@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">PlacesDemo</string>
+    <string name="gps_not_found_title">Location is off</string>
+    <string name="gps_not_found_message">Please turn on your location to server you better</string>
+
+</resources>
